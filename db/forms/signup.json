@@ -1,0 +1,47 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "fieldType": "input",
+            "label": "First Name",
+            "properties": {
+                "type": "text",
+                "id": "first-name",
+                "class": "text-box"
+            }
+        },
+        {
+            "id": 2,
+            "fieldType": "input",
+            "label": "Last Name",
+            "properties": {
+                "type": "text",
+                "id": "first-name",
+                "class": "text-box"
+            }
+        },
+        {
+            "id": 3,
+            "fieldType": "input",
+            "label": "Male",
+            "properties": {
+                "type": "radio",
+                "id": "male-radio-box",
+                "name": "gender-radio-box",
+                "class": "radio-box"
+            }
+        },
+        {
+            "id": 4,
+            "fieldType": "input",
+            "label": "Female",
+            "properties": {
+                "type": "radio",
+                "id": "female-radio-box",
+                "name": "gender-radio-box",
+                "class": "radio-box"
+            }
+        }
+        
+    ]
+}
